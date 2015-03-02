@@ -26,6 +26,6 @@ No work is ever truly "done," and this piece certainly fits that category. Futur
 2. On that note: adding mini stories to each of the green or red shaded areas further explaining why there was either a surplus or a deficit. For example after World War I (1918), you see a decline in surplus and during World War II there is far more consumption (import) than export.
 3. A "brush and focus" section below the graph allowing the viewer to drag and zoom into different years. 
 4. An interesting overlay might be adding in unemployment on top of this to see what, if any, relationship there was with the trade balance. 
-
+5. Linking points on the timeline to news articles that discuss trade balance.
 
 
