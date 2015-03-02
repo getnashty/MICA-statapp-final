@@ -3,7 +3,7 @@ Working demo can be found here: http://statapp.ctodd.co/
 #MICA: Statistical Applications for Data Visualization Final Project 
 
 ###Design process
-Having created many visualizations in Excel, Illustrator, and R-Studio as well as High Charts [Example](http://canada.ctodd.co/) and Charts.js [Example](http://fatal.ctodd.co/), I wanted a bigger challenge. Sure I could have easily continued using those tools. However, I had my eyes set on something bigger. D3.js is a powerful JavaScript library that most serious data visualizers have in their toolbox, and I had never used it so here presented a the perfect opportunity. And a challenge it was. I'd rather attempt the triple axl and falter than nail a double. 
+Having created many visualizations in Excel, Illustrator, and R-Studio as well as High Charts [Example](http://canada.ctodd.co/) and Charts.js [Example](http://fatal.ctodd.co/), I wanted a bigger challenge. Sure I could have easily continued using those tools. However, I had my eyes set on something bigger. D3.js is a powerful JavaScript library that most serious data visualizers have in their toolbox, and I had never used it so this final presented a perfect opportunity. And a challenge it was. I'd rather attempt the triple axl and falter than nail a double. 
 
 ###Design philosophy
 Simpler is better. Yes, I could have created many graphs with all that data but that defeats the purpose of design, which is to simplify and clarify. Communication needs to be clear, to the point, and not be confusing. There are types of visualizations that might be better for exploration. However, I wanted this to be an explanatory visualization. 
