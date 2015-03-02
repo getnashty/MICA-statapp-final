@@ -1,15 +1,15 @@
 Working demo can be found here: http://statapp.ctodd.co/
 
-# MICA: Statistical Applications for Data Visualization Final Project 
+#MICA: Statistical Applications for Data Visualization Final Project 
 
-###Design process.
+###Design process
 Having created many visualizations in Excel, Illustrator, and R-Studio as well as High Charts and Charts.js, I wanted a bigger challenge. Sure I could have easily continued using those tools. However, I had my eyes set on something bigger. D3.js is a powerful JavaScript library that most serious data visualizers have in their toolbox, and I had never used it so here presented a the perfect opportunity. And a challenge it was.
 
 ###Design philosophy
 Simpler is better. Yes, I could have created many graphs with all that data but that defeats the purpose of design, which is to simplify and clarify. Communication needs to be clear, to the point and not be confusing. There are types of visualizations that might be better for exploration. However, I wanted this to be an explanatory visualization. 
 
 ###Data 
-Initially, I wanted to use my city's open data portal [http://data.somervillema.gov], however upon digging deeper into the data, it turned out the 2011 Wellness Survey, one of the first in the country, had a data export that was corrupt. It was mildly amusing that halfway down the column of responses in the "How satisfied with you life area you?" household income data appeared. I came across Andy Kirk's blog post announcing the recent Bank of England Challenge
+Initially, I wanted to use my city's open data portal [http://data.somervillema.gov], however upon digging deeper into the data, it turned out the 2011 Wellness Survey, one of the first in the country, had a data export that was corrupt. It was mildly amusing that halfway down the column of responses in the "How satisfied with you life area you?" household income data appeared. I came across Andy Kirk's blog post announcing the recent Bank of England Data Visualisation Challenge and thought this could be interesting data to pursue. 
 
 ###Challenges with the data
 Thankfully the Bank of England data files was quite elegant, well marked and clean. From experience, this is a rare state to encounter, and the Somerville example is far more common. The challenges here were in two areas
